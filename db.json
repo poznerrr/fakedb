@@ -136,7 +136,7 @@
   "interests": ["buildings", "real-life heroes"],
   "description": "Multi-feature toy fire station set for ages 6+. The LEGO® City Fire Station is packed with fun features for action-packed play and includes 2 LEGO City TV characters.",
   "amountOnStock": 5,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/11.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/11-1.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/11.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/11-1.jpg?raw=true"]
 },
 {
   "id": 12,
@@ -161,7 +161,7 @@
   "interests": ["princess", "buildings", "animals"],
   "description": "Designed for kids aged 4 and up. This learn-to-build LEGO® ǀ Disney set is an imaginative play option for youngsters with a passion for Disney’s Frozen.",
   "amountOnStock": 1,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/13.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/frozen.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/13.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/frozen.jpg?raw=true"]
 },
 {
   "id": 14,
@@ -174,7 +174,7 @@
   "interests": ["buildings", "princess"],
   "description": "A treat with endless play options. This LEGO® ǀ Disney set is designed for kids to quickly build and play out their favorite Frozen adventures.",
   "amountOnStock": 2,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/14.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/frozen.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/14.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/frozen.jpg?raw=true"]
 },
 { "id": 15,
   "name": "Anna and Elsa's Frozen Wonderland",
@@ -186,7 +186,7 @@
   "interests": ["buildings", "princess"],
   "description": "An exciting set developed for kids aged 4+. This set includes easy-to-follow instructions and Starter Bricks to guide kids with a fun experience as they learn to build.",
   "amountOnStock": 4,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/15.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/frozen.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/15.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/frozen.jpg?raw=true"]
 },
 {
   "id": 16,
@@ -199,7 +199,7 @@
   "interests": ["princess"],
   "description": "Endless play and fun in a portable storybook. Fans of Disney’s Frozen 2 can play out open-ended adventures with the cool characters included in this complete micro-world.",
   "amountOnStock": 8,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/16.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/frozen.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/16.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/frozen.jpg?raw=true"]
 },
 { "id": 17,
   "name": "Elsa's Wagon Adventure",
@@ -211,7 +211,7 @@
   "interests": ["animals", "princess"],
   "description": "This set has Instructions PLUS! A fun and easy tool that helps you build!",
   "amountOnStock": 1,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/17.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/frozen.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/17.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/frozen.jpg?raw=true"]
 },
 {
   "id": 18,
@@ -224,7 +224,7 @@
   "interests": ["buildings", "princess"],
   "description": "An iconic set for Disney’s Frozen fans. This striking LEGO® | Disney set, with 3 floors full of movie-related details, lets fans recreate the castle in all its glory.",
   "amountOnStock": 2,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/18.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/frozen.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/18.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/frozen.jpg?raw=true"]
 },
 { "id": 19,
   "name": "Frozen Ice Castle",
@@ -236,7 +236,7 @@
   "interests": ["princess", "buildings"],
   "description": "Light-up Disney Frozen playset. With a familiar setting and much-loved Disney characters to inspire role-play, your toddler will never want to ‘Let It Go’.",
   "amountOnStock": 5,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/19.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/frozen.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/19.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/frozen.jpg?raw=true"]
 },
 {
   "id": 20,
@@ -249,7 +249,7 @@
   "interests": ["buildings", "princess"],
   "description": "A treat designed for quick building and play. This open-ended LEGO® ǀ Disney Frozen set is made for kids to quickly build and start playing out creative adventures.",
   "amountOnStock": 7,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/20.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/frozen.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/20.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/frozen.jpg?raw=true"]
 },
 { "id": 21,
   "name": "Bookshop",
@@ -261,7 +261,7 @@
   "interests": ["fantasy", "buildings"],
   "description": "Start a new story. Expand your Modular Building collection with this exclusive NEW bookshop.",
   "amountOnStock": 1,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/21.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/21.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg?raw=true"]
 },
 {
   "id": 22,
@@ -274,7 +274,7 @@
   "interests": ["fantasy", "buildings"],
   "description": "Drop in for a visit. Ride the elevator to nowhere with the Fairground Collection Haunted House.",
   "amountOnStock": 2,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/22.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/22.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg?raw=true"]
 },
 { "id": 23,
   "name": "Santa’s Visit",
@@ -286,7 +286,7 @@
   "interests": ["fantasy", "buildings"],
   "description": "Make holiday traditions together. Share the building fun with family members and create a display piece you can rebuild every year.",
   "amountOnStock": 4,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/23.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/23.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg?raw=true"]
 },
 {
   "id": 24,
@@ -299,7 +299,7 @@
   "interests": ["fantasy", "buildings"],
   "description": "Join the Fab 5 for a gorgeous building project. Fans of the Queer Eye TV show will feel right at home recreating the decor and details of the guys’ original Atlanta loft.",
   "amountOnStock": 8,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/24.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/24.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg?raw=true"]
 },
 { "id": 25,
   "name": "Porsche 911",
@@ -311,7 +311,7 @@
   "interests": ["fantasy", "cars"],
   "description": "VIP-Only Online Car Meet. Be there as Porsche and LEGO® designers introduce the new LEGO Porsche 911. Not a VIP? Join today!",
   "amountOnStock": 1,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/25.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/25.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg?raw=true"]
 },
 {
   "id": 26,
@@ -324,7 +324,7 @@
   "interests": ["fantasy", "travel", "space", "real-life heroes"],
   "description": "An icon of space exploration. Celebrate the 50th anniversary of the first manned lunar landing, with this accurately detailed Apollo 11 Lunar Landing replica.",
   "amountOnStock": 2,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/26.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/26.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg?raw=true"]
 },
 { "id": 27,
   "name": "Optimus Prime",
@@ -336,7 +336,7 @@
   "interests": ["fantasy", "robots"],
   "description": "An icon rises. In robot mode, the model stands over 13.5 in. (35 cm) tall.",
   "amountOnStock": 5,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/27.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/27.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg?raw=true"]
 },
 {
   "id": 28,
@@ -349,7 +349,7 @@
   "interests": ["fantasy", "buildings"],
   "description": "Monumental build! Includes historic architectural details like the surviving archways.",
   "amountOnStock": 7,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/28.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/28.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg?raw=true"]
 },
 { "id": 29,
   "name": "High-Speed Train",
@@ -361,7 +361,7 @@
   "interests": ["fantasy", "trains"],
   "description": "Keep in touch. Sign up to receive communications from LEGO® Marketing and be the first to know about new sets, product updates, promotions and much more",
   "amountOnStock": 1,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/29.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/29.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg?raw=true"]
 },
 {
   "id": 30,
@@ -374,7 +374,7 @@
   "interests": ["fantasy", "cars", "travel"],
   "description": "Details from the Flux Capacitor to Mr. Fusion. From one of the most beloved film franchises, this is a fantastic build for fans.",
   "amountOnStock": 2,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/30.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/30.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg?raw=true"]
 },
 { "id": 31,
   "name": "Robot Inventor",
@@ -386,7 +386,7 @@
   "interests": ["robots", "vehicles"],
   "description": "Build, code and play with Robot Inventor! Inspire minds with a physical-meets-digital world filled with interactive, remote-control robots and intelligent vehicles.",
   "amountOnStock": 4,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/31.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/31.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg?raw=true"]
 },
 {
   "id": 32,
@@ -399,7 +399,7 @@
   "interests": ["robots"],
   "description": "Sturdy storage box with color-coded sorting trays for easy classroom management. Replacement elements also included.",
   "amountOnStock": 8,
-  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/32.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg"]
+  "urlImage": ["https://github.com/poznerrr/fakedb/blob/main/img/32.png?raw=true", "https://github.com/poznerrr/fakedb/blob/main/img/creator.jpg?raw=true"]
 },
 { "id": 33,
   "name": "Jeep® Wrangler",
